@@ -9,7 +9,9 @@
 ---
 
 <p>🌱 <b>About me:</b> I am a Computer Scientist and Full-stack Developer with Offensive Security Enthusiasm. I enjoy to research new topics, applied to applications and protect them with cybersecurity skills. </p>  
-<img width="600" height="300" alt="Your Name Japan GIF by All The Anime — Anime Limited" src="https://github.com/user-attachments/assets/b2df9c9b-f7b4-48cf-aafd-1f1793484ba2" /><br><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2df9c9b-f7b4-48cf-aafd-1f1793484ba2" width="600" height="300" alt="Your Name Japan GIF by All The Anime — Anime Limited" />
+</p>
 
 <p>🚀 <b>Techstack:</b>  
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">

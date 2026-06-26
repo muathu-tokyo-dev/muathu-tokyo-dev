@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="#">Linked In</a> - 
-  <a href="#">Porfolio</a> - 
-  <a href="#">Contact</a> - 
+  <a href="https://muathu-tokyo-dev.github.io/personal-porfolio">Porfolio</a> - 
+  <a href="#">Contact</a>
 </p>
 
 ---
